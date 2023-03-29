@@ -1,0 +1,4 @@
+# Ignore file, build, and node_modules directories
+file/
+build/
+node_modules/
